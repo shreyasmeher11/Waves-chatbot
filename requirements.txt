@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pyngrok 
+langchain 
+huggingface-hub 
+nest-asyncio 
+watchdog
+faiss-cpu
+sentence-transformers
+InstructorEmbedding
+langchain-community
+openai
+tiktoken
